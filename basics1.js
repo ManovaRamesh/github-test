@@ -1,3 +1,4 @@
 let first_name = "Manova";
 console.log(first_name);
-first_name = "Ramesh"
+let last_name = "Ramesh";
+console.log(last_name);
